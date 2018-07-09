@@ -1,6 +1,6 @@
 # smapi
 
-> mozhi_pc_websites
+> vue iview api doc
 
 ## Build Setup
 
