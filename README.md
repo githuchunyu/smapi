@@ -1,4 +1,4 @@
-# mozhi_web
+# smapi
 
 > mozhi_pc_websites
 
